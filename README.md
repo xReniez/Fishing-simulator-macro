@@ -1,4 +1,4 @@
-# Fishing-simulator-macro
+# Fishing-simulator-AutoFish macro
 
 This macro was made for a passion project between 6/20/24 and 7/4/24. The project will more than likely not be updated however I may make more systems alike this one in the near future.
 
@@ -20,3 +20,5 @@ Simply delete the exe off your computer and thats it!
 
 DOWNLOAD:
 https://mega.nz/folder/E31TwJpK#nykL8gAP4ZWnU1Aditl8Dw
+
+NOTE: this program is my first ever so it is a bit buggy so dont expect it to work all the time
