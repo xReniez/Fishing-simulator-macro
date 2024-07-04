@@ -5,11 +5,11 @@ This macro was made for a passion project between 6/20/24 and 7/4/24. The projec
 
 Macro is morely designed for max level fishing rods, level 50 on everything besides luck.
 Macro exe comes with 2 custom editable settings 
-![image](https://github.com/xReniez/Fishing-simulator-macro/assets/168895348/e5d8bfc0-e78e-43fc-8355-27de36e31d08)
 
 Settings:
 - Reel Time (The time it takes for you to get a fish on the hook)
 - Click Amount (how many times you have to click before the fish catches)
+![image](https://github.com/xReniez/Fishing-simulator-macro/assets/168895348/e5d8bfc0-e78e-43fc-8355-27de36e31d08)
 
 Keybinds:
 (F1) clicking f1 will start the macro as well as stop the macro.
